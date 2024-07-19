@@ -258,9 +258,16 @@ p {
 .grid-container p {
   font-size: 1em;
 }
-.sponsor img {
-  background: linear-gradient(yellow, gold);
 
+.gold {
+  background: linear-gradient(yellow, gold);
+}
+
+.plat {
+  background: linear-gradient(white, silver);
+}
+
+.sponsor img {
   width: 80%;
   border-radius: 30px;
   padding: 30px;
