@@ -68,7 +68,7 @@ div {
 }
 #signup {
   padding: 24px;
-  background: linear-gradient(135deg, #57514b, #b9a088);
+  background: linear-gradient(135deg, #74552a, #b9a088);
   border: 4px solid white;
   border-radius: 20px;
   font-weight: 900;
@@ -139,7 +139,7 @@ p {
 }
 
 .light h2 {
-  color: #917b67;
+  color: #4a3a2c;
 }
 
 .bold {
@@ -157,16 +157,15 @@ p {
 .dark {
   color: #eedfd6;
   padding: 2em;
-  background-color: #917b67;
+  background-color: #4a3a2c;
 }
-
 
 .faq {
   user-select: none;
   overflow-y: hidden;
   overflow-x: hidden;
   height: 36px;
-  background: linear-gradient(135deg, #756759, #b9a088);
+  background: linear-gradient(135deg, #74552a, #b9a088);
   padding: 24px;
   margin-bottom: 20px;
   color: white;
@@ -251,7 +250,6 @@ p {
   font-size: 1em;
 }
 
-
 .sponsor-container {
   display: flex;
   width: 100%;
@@ -284,9 +282,7 @@ p {
   background: linear-gradient(45deg, rgb(198, 255, 211), rgb(225, 196, 255));
 }
 
-
 .sponsor img {
-  
   position: absolute;
   top: 50%;
   left: 50%;
@@ -331,13 +327,13 @@ p {
 
 .navbar {
   border-top: 4px solid #eedfd6;
-  background-color: #917b67;
+  background-color: #4a3a2c;
 }
 
 .explanation {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #917b67;
+  background-color: #4a3a2c;
 }
 
 ::-webkit-scrollbar {
