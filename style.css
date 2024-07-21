@@ -275,7 +275,11 @@ p {
 }
 
 .gold {
-  background: linear-gradient(rgb(255, 255, 194), rgb(255, 233, 110));
+  background: linear-gradient(45deg, rgb(255, 255, 194), rgb(255, 233, 110));
+}
+
+.addl {
+  background: linear-gradient(45deg, rgb(255, 255, 255), rgb(219, 219, 219));
 }
 
 .plat {
