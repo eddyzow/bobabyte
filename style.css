@@ -256,6 +256,11 @@ p {
   flex-wrap: wrap;
 }
 
+#donatebutton {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 .sponsor {
   flex: 0 1 calc(33.333% - 20px); /* Three sponsors per row, accounting for margin */
   margin: 10px;
