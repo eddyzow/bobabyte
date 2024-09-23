@@ -231,6 +231,12 @@ p {
   .picture-holder p {
     display: none;
   }
+  .picture-holder img {
+    width: 120px; /* Adjust size to your liking */
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
 }
 
 @media only screen and (max-width: 420px) {
