@@ -133,6 +133,10 @@ p {
   display: inline;
 }
 
+.iconclick>i {
+  transition: cubic-bezier(.18, .89, .32, 1.28) 0.5s;
+}
+
 #logo {
   height: 100px;
   margin-top: 20px;
