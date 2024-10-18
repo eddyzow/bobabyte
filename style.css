@@ -194,11 +194,6 @@ p {
 
 @media only screen and (max-width: 840px) {
 
-  /* For mobile phones: */
-  [class*="faq"] {
-    height: 24px;
-  }
-
   [class*="grid-container"] {
     grid-template-columns: repeat(1, 1fr);
   }
