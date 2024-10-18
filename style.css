@@ -133,6 +133,10 @@ p {
   display: inline;
 }
 
+.iconclick > i {
+  transition: ease-in-out 0.5s;
+}
+
 #logo {
   height: 100px;
   margin-top: 20px;
