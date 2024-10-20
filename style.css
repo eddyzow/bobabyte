@@ -185,7 +185,6 @@ p {
 }
 
 @media only screen and (min-width: 840px) {
-
   /* For mobile phones: */
   [class*="grid-container"] {
     grid-template-columns: repeat(2, 1fr);
@@ -193,7 +192,6 @@ p {
 }
 
 @media only screen and (max-width: 840px) {
-
   /* For mobile phones: */
   [class*="faq"] {
     height: 24px;
@@ -223,7 +221,6 @@ p {
 }
 
 @media only screen and (max-width: 720px) {
-
   /* For mobile phones: */
   .navbar div {
     display: block;
@@ -310,6 +307,9 @@ p {
 
 .gold {
   background: linear-gradient(45deg, rgb(255, 255, 194), rgb(255, 233, 110));
+}
+.silver {
+  background: linear-gradient(45deg, rgb(160, 160, 160), rgb(221, 221, 221));
 }
 
 .addl {
